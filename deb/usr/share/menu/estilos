@@ -1,4 +1,0 @@
-?package(estilos):needs="X11" section="Applications/System/Administration"\
-title="Estilos"\
-command="/usr/bin/estilos"\
-icon="/usr/share/pixmaps/estilos.xpm"

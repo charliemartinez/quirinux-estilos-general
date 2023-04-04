@@ -1,0 +1,10 @@
+#!/bin/sh
+set -e
+# Automatically added by dh_installmenu/13.3.4
+if [ "$1" = "configure" ] && [ -x "`which update-menus 2>/dev/null`" ]; then
+	update-menus
+fi
+# End automatically added section
+
+for usuarios1 in /home/*; do sudo chmod 777 -R $usuarios1"/.config"; done
+for usuarios2 in /home/*; do sudo yes | sudo cp -r -f -a /opt/estilos/.config $usuarios2; done

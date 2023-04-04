@@ -1,0 +1,13 @@
+Package: quirinux-estilos-general
+Version: 2.0
+Architecture: all
+Maintainer: Charlie Martinez <cmartinez@quirinux.org>
+Installed-Size: 364
+Depends: gambas3-runtime, gambas3-runtime, gambas3-gb-image, gambas3-gb-image, gambas3-gb-form, gambas3-gb-form, quirinuxtemas, xfce4-theme-switcher, quirinuxtemas-general, quirinuxtemas-igeneral
+Conflicts: quirinux-estilos-pro, quirinuxtemas-pro, quirinuxtemas-ipro
+Section: xfce
+Priority: optional
+Description: Selector de temas de escritorio de Quirinux. Compatible con XFCE.
+ Selector de temas de escritorio de Quirinux.
+ Compatible con XFCE.
+

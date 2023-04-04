@@ -1,0 +1,38 @@
+[Desktop Entry]
+Version=1.0
+Name=Styles
+Comment=Selector de temas de escritorio de Quirinux.
+
+Comment[de]=Quirinux desktop theme switcher.
+Comment[en]=Quirinux desktop theme switcher.
+Comment[en_GB]=Quirinux desktop theme switcher.
+Comment[en_US]=Quirinux desktop theme switcher.
+Comment[es_ES]=Selector de temas de escritorio de Quirinux.
+Comment[es_AR]=Selector de temas de escritorio de Quirinux.
+Comment[fr]=Commutateur de thème de bureau Quirinux.
+Comment[gl_ES]=Cambiador de temas de escritorio Quirinux.
+Comment[it]=Selettore di temi desktop Quirinux.
+Comment[pt]=Alternador de tema de desktop Quirinux.
+Comment[pt_BR]=Alternador de tema de desktop Quirinux.
+Comment[ru]=Переключатель тем рабочего стола Quirinux.
+
+
+Exec=estilos
+Icon=estilos
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=System;
+
+Name[de]=Stile
+Name[en]=Styles
+Name[en_GB]=Styles
+Name[en_US]=Styles
+Name[es_ES]=Estilos
+Name[es_AR]=Estilos
+Name[fr]=Modes
+Name[gl_ES]=Estilos
+Name[it]=Stili
+Name[pt]=Estilos
+Name[pt_BR]=Estilos
+Name[ru]=стили
